@@ -4,6 +4,7 @@ Google Test + CMakeのサンプルプロジェクト
 
 - sample1_local: ローカルにあるGoogle Testを利用してテストを書く例 (要: Google Test)
 - sample1_ext: Google Testを自動的にダウンロードして使う例
+- sample2: ベル数を計算する具体例
 
 # 注意
 
